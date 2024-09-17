@@ -1,0 +1,25 @@
+{
+  "name": "react-webstory",
+  "version": "1.0.0",
+  "description": "React webstory builder and viewer with AMP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flat-coding/react-webstory.git"
+  },
+  "keywords": [
+    "webstory",
+    "webstory editor",
+    "webstory builder",
+    "google webstory"     
+  ],
+  "author": "faltcoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flat-coding/react-webstory/issues"
+  },
+  "homepage": "https://github.com/flat-coding/react-webstory#readme"
+}
